@@ -53,4 +53,17 @@ You can run:
 - npm run build – Builds for production to /build
 - npm test – Launches test runner
 
-(Adapted from Create React App)
+_(Adapted from Create React App)_
+
+---
+
+## 📁 Docs
+
+- See CRA-README.md for the full Create React App guide.
+- See /docs for screenshots or additional materials.
+
+---
+
+## 📄 License
+
+MIT — Free to use with attribution
