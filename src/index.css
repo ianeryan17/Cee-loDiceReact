@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Hesorder */
+@font-face {
+  font-family: 'Hesorder';
+  src: url("./fonts/Hesorder.ttf") format("truetype");
+  font-weight: 900; /* Black weight is typically 900 */
+  font-style: normal;
+}
+/* AAnotherTag */
+@font-face {
+  font-family: 'AAnotherTag';
+  src: url("./fonts/AAnotherTag.ttf") format("truetype");
+  font-weight: 900; /* Black weight is typically 900 */
+  font-style: normal;
+}
