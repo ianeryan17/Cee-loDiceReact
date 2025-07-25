@@ -14,7 +14,7 @@ This version of Ceelo was created as a learning project to:
 
 ---
 
-## 🚀 Demo
+## 🚀 Gameplay Screenshot
 
 Here's a peek at the gameplay:
 
