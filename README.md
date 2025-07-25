@@ -4,13 +4,6 @@ This is a browser-based version of **Cee-lo**, a fast-paced street dice game. Bu
 
 ---
 
-## 🚀 Demo
-
-<!-- You can add screenshots or a link to a live version here -->
-<img src="docs/ceelo_react_screenshot.png" alt="Gameplay Screenshot" width="500"/>
-
----
-
 ## 🧠 About the Project
 
 This version of Ceelo was created as a learning project to:
@@ -18,6 +11,14 @@ This version of Ceelo was created as a learning project to:
 - Reimplement gameplay logic from my earlier Unity prototype
 - Explore React state management and user interaction
 - Prototype a responsive game UI using modern web technologies
+
+---
+
+## 🚀 Demo
+
+Here's a peek at the gameplay:
+
+<img src="docs/gameplay_screenshot_React.png" alt="Gameplay Screenshot" width="500"/>
 
 ---
 
